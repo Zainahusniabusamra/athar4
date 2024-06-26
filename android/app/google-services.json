@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635252309089",
+    "project_id": "athar-14346",
+    "storage_bucket": "athar-14346.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635252309089:android:0f653bc00359eefc513e20",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_athar_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNBc9xREZzxF7X5NsMArLUhuG16whFJHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

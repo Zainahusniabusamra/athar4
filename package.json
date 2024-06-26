@@ -1,0 +1,26 @@
+{
+  "name": "flutter_application_athar_project",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zainahusniabusamra/athar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zainahusniabusamra/athar/issues"
+  },
+  "homepage": "https://github.com/Zainahusniabusamra/athar#readme",
+  "dependencies": {
+    "firebase-tools": "^13.10.2"
+  }
+}
